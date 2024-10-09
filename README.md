@@ -36,7 +36,6 @@ jupyter notebook
 Open main.ipynb and run the cells to train the SVM model and visualize the results.
 
 ## Contributions
-We welcome contributions to enhance the project! Here are some areas where you can contribute:
 
 1. **Hyperparameter Tuning:**
    - Implement grid search or random search to find the best hyperparameters for the SVM model to improve accuracy.

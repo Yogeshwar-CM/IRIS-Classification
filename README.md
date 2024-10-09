@@ -28,11 +28,11 @@ The dataset used in this project is the Iris dataset, which is available at [UCI
    pip install pandas numpy scikit-learn seaborn matplotlib
    ```
    
-##Usage
+## Usage
 To run the jupyter notebook
-```bash
-jupyter notebook
-```
+   ```bash
+   jupyter notebook
+   ```
 Open main.ipynb and run the cells to train the SVM model and visualize the results.
 
 ## Contributions

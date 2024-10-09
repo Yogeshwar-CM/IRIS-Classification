@@ -55,6 +55,6 @@ We welcome contributions to enhance the project! Here are some areas where you c
 
 6. **Decision Boundary Visualization:**
    - Add visualization for the decision boundaries of the SVM model to illustrate how the model separates different classes.
-   - 
+     
 7. **Unit Testing:**
-8. - Added tests for model accuracy and prediction validity.
+   - Added tests for model accuracy and prediction validity.

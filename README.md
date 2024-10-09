@@ -28,15 +28,14 @@ The dataset used in this project is the Iris dataset, which is available at [UCI
    pip install pandas numpy scikit-learn seaborn matplotlib
    ```
    
-##Usage
+## Usage
 To run the jupyter notebook
-```bash
-jupyter notebook
-```
+   ```bash
+   jupyter notebook
+   ```
 Open main.ipynb and run the cells to train the SVM model and visualize the results.
 
 ## Contributions
-We welcome contributions to enhance the project! Here are some areas where you can contribute:
 
 1. **Hyperparameter Tuning:**
    - Implement grid search or random search to find the best hyperparameters for the SVM model to improve accuracy.
@@ -55,3 +54,6 @@ We welcome contributions to enhance the project! Here are some areas where you c
 
 6. **Decision Boundary Visualization:**
    - Add visualization for the decision boundaries of the SVM model to illustrate how the model separates different classes.
+     
+7. **Unit Testing:**
+   - Added tests for model accuracy and prediction validity.
